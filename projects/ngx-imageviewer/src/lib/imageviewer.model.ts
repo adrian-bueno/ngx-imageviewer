@@ -1,5 +1,5 @@
 import { ButtonConfig, ButtonStyle, ImageViewerConfig } from './imageviewer.config';
-import { Observable, Subject } from 'rxjs';
+import { Subject } from 'rxjs';
 
 export class Button {
   //#region Properties

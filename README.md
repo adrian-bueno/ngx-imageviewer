@@ -1,5 +1,13 @@
 # Angular 14 - Canvas Image/PDF Viewer
 
+> **IMPORTANT!**  
+> This library has been forked from: https://github.com/hallysonh/ngx-imageviewer  
+> I'm not going to maintain this library, only update it to Angular 14.  
+> This is a temporal solution until the PR is merged https://github.com/hallysonh/ngx-imageviewer/pull/95  
+>
+> Install: `npm install @devadri/ngx-imageviewer hammerjs`
+
+
 [![travis build](https://travis-ci.org/hallysonh/ngx-imageviewer.svg?branch=master)](https://travis-ci.org/hallysonh/ngx-imageviewer)
 [![Greenkeeper badge](https://badges.greenkeeper.io/hallysonh/ngx-imageviewer.svg)](https://greenkeeper.io/)
 [![version](https://img.shields.io/npm/v/@hallysonh/ngx-imageviewer.svg)](http://npm.im/@hallysonh/ngx-imageviewer)

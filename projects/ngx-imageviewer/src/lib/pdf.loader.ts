@@ -1,7 +1,6 @@
-import { ResourceLoader, Dimension, toSquareAngle } from './imageviewer.model';
+import { ResourceLoader } from './imageviewer.model';
 import { ImageCacheService } from './imagecache.service';
-import { ImageViewerConfig } from './imageviewer.config';
-import { PDFJSStatic, PDFDocumentProxy, PDFPageProxy } from 'pdfjs-dist';
+import { PDFDocumentProxy, PDFPageProxy } from 'pdfjs-dist';
 
 declare var pdfjsLib: any;
 declare var pdfjsWorker: any;
